@@ -1,7 +1,7 @@
 ## Formulário
 
 ## Objetivo: 
-- Criamos uma tela de 'login dark/white' com possibilidades de fazer autenticação com outras redes sociais.
+- Tela de 'login dark/white' com possibilidades de fazer autenticação com outras redes sociais.
 - Mostrar a interface gráfica.
 
 ## Tecnologias utilizadas:
